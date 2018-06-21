@@ -9,6 +9,22 @@ body {
 @media (max-width: 28.2cm) {
   body {
     background-image: url("Pagebg.jpg");
+    margin: 0px;
+    padding: 0px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Lato",sans-serif;
+  }
+}
+@media screen and (max-width: 720px;)
+{
+  body{
+    background-image: url("Pagebg 720_1000.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Lato",sans-serif;
+    margin: 0px;
+    padding: 0px;
   }
 }
 .SignUpBlurBox {
